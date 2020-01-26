@@ -1,0 +1,54 @@
+    hr
+    {
+
+        border-style: dotted none none;
+        height: 0;
+        width: 5%;
+        border-width: 10px;
+        border-top-color: dimgray;
+    }
+    h1
+    {
+        text-align: center;
+        color: #66bfbf;
+    }
+    table
+    {
+      text-align: left;
+
+    }
+    h2
+    {
+        text-align: center;
+         color: #66bfbf;
+    }
+    li
+    {
+        text-align: center;
+    }
+img
+{
+  border-radius: 70%;
+}
+img:hover{
+  background-color: gold;
+}
+/*table
+{
+  border-color: dimgray;
+}*/
+table:hover{
+  font-size: 30px;
+}
+.profile
+{
+ text-align:  center;
+ align-self: center;
+}
+img:hover
+{
+  position: relative;
+   width: 500px;
+   height:auto;
+
+}
